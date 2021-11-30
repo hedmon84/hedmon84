@@ -1,4 +1,4 @@
-### Hi there! My name is Darwin Luque 👋
+### Hi there! My name is Hedmon Lopez 👋
 
 I'm a mechatronics engineer currently working as a software developer at [CODE Éxitos](https://www.linkedin.com/company/unique-vacations-ltd-/mycompany/)
 
@@ -6,6 +6,6 @@ I'm a mechatronics engineer currently working as a software developer at [CODE �
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hedmon84&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Darwin Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwin-luque&show_icons=true&theme=synthwave&count_private=true)](https://github.com/hedmon84)
+[![Darwin Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedmon84&show_icons=true&theme=synthwave&count_private=true)](https://github.com/hedmon84)
 
 [![Darwin Luque's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedmon84&layout=compact&theme=radical&count_private=true)](https://github.com/hedmon84)
