@@ -4,7 +4,7 @@ I'm a Computer Science  engineer currently working as a QA Automation Engineer a
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hedmon84)
 
-[![trophy](https://github-profile-trophy.vercel.app/?hedmon84&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hedmon84&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Darwin Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedmon84&show_icons=true&theme=synthwave&count_private=true)](https://github.com/hedmon84)
 
