@@ -1,6 +1,6 @@
 ### Hi there! My name is Hedmon Lopez 👋
 
-I'm a mechatronics engineer currently working as a software developer at [CODE Éxitos](https://www.linkedin.com/company/unique-vacations-ltd-/mycompany/)
+I'm a mechatronics engineer currently working as a software developer at [Unique Vacations LTD](https://www.linkedin.com/company/unique-vacations-ltd-/mycompany/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hedmon84)
 
