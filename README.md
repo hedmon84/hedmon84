@@ -1,6 +1,7 @@
 ### Hi there! My name is Hedmon Lopez 👋
 
 I'm a Computer Science  Engineer currently working as a QA Automation Engineer at [Unique Vacations LTD](https://www.linkedin.com/company/unique-vacations-ltd-/mycompany/)
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/ce83f4d6/beaches.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hedmon84)
 
