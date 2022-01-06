@@ -2,10 +2,12 @@
 
 I'm a Computer Science  Engineer currently working as a QA Automation Engineer at [Unique Vacations LTD](https://www.linkedin.com/company/unique-vacations-ltd-/mycompany/)
 
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/ce83f4d6/beaches.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hedmon84&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hedmon84)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hedmon84&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Darwin Luque's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedmon84&show_icons=true&theme=synthwave&count_private=true)](https://github.com/hedmon84)
 
