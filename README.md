@@ -7,3 +7,5 @@ I'm a Software  Engineer currently working as a Senior QA  Engineer
 [![Hedmon Lopez GitHub stats](https://github-readme-stats.vercel.app/api?username=hedmon84&show_icons=true&theme=synthwave&count_private=true)](https://github.com/hedmon84)
 
 [![Hedmon Lopez Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hedmon84&layout=compact&theme=radical&count_private=true)](https://github.com/hedmon84)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hedmon84)](https://github.com/ryo-ma/github-profile-trophy)
