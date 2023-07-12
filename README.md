@@ -5,7 +5,7 @@ I'm a Software  Engineer currently working as a Senior QA  Engineer
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/ce83f4d6/beaches.com)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hedmon84)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hedmon84&theme=onedark&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)
 
